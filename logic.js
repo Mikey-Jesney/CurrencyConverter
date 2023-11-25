@@ -6,3 +6,6 @@ async function logMovies() {
   }
 
 
+  logMovies();
+
+
